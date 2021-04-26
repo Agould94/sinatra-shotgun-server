@@ -5,7 +5,7 @@ source "https://rubygems.org"
 
 gem 'sinatra'
 gem 'rake'
-gem 'thin'
+#gem 'thin', '~> 1.6.4'
 gem 'shotgun'
 gem 'pry'
 gem 'require_all'
